@@ -27,6 +27,7 @@ public class AddScheduleActivity extends RoboSherlockFragmentActivity {
 
     public void saveForm() {
         /*Schedule schedule1 = new Schedule();
+        
         schedule1.setTitle("For Grandpa");
         schedule1.setDrug(drug1);
         schedule1.setRepeat(Schedule.Repeat.Day);
